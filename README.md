@@ -16,7 +16,7 @@ $ git clone https://github.com/crackige/premium
 $ cd premium
 $ git pull
 $ ls
-$ python2 premium.pyc
+$ python2 premium.py
 ```
 
-# ENJOYY BROOO
+# ENJOYY BROO
